@@ -1,4 +1,4 @@
-  #👋 I'm Divyanshu
+# 👋 I'm Divyanshu
 🔭 I’m currently working on: Designing and building scalable full-stack applications with clean architecture and performance in mind.<br>👯 I’m looking to collaborate on: Open-source projects, SaaS products, APIs, and real-world production systems.<br>🤝 I’m looking for help with: System design, backend scalability, distributed systems, and database optimization.<br>🌱 I’m currently learning: Advanced JavaScript, Node.js, backend frameworks, REST APIs, cloud deployment, and DevOps basics.<br>💬 Ask me about: Full-stack development, API design, debugging, optimization, and software engineering fundamentals.<br>⚡ Fun fact: I enjoy refactoring legacy code and turning complex systems into clean, maintainable solutions.
 
 
